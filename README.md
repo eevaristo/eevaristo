@@ -1,4 +1,4 @@
-## Olá eu sou  Elton Evaristo, desenvolvedor Back-End e estudando Front-End!
+## Olá eu sou  Elton Evaristo, desenvolvedor Back-End e estudante de Front-End!
 <div align="center">
   <a href="https://github.com/eevaristo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eevaristo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
